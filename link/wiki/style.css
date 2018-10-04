@@ -1,0 +1,16 @@
+h1 {
+	color: rgb(232,162,12);
+}
+
+p {
+	width:75%;
+}
+
+img {
+	width:75%;
+	opacity: 0.5%;
+}
+
+body {
+	background-color: pink;
+}
