@@ -1,0 +1,296 @@
+.background{ 
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("Alyssa-L01_01-edit.jpg");
+  background-size: contain;
+  background-position: center;
+ }
+
+.NIKE{
+
+  position:absolute;
+  left:25px;
+  top:10px;
+ 
+}
+
+/*.NIKE2{
+
+  position:absolute;
+  left:25px;
+  top:10px;
+ 
+}*/
+
+.SPORTY{
+
+  position:absolute;
+  left:195px;
+  top:-61px;
+  font-family:'Anton', sans-serif;
+  font-size: 70pt;
+  color: rgb(0, 0, 0);
+
+}
+
+.X{
+
+  position:absolute;
+  left:486px;
+  top:-203px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 125pt;
+  color: rgb(0, 0, 0);
+
+}
+
+.CHIC{
+
+  position:absolute;
+  left:631px;
+  top:-61px;
+  font-family: 'Anton', sans-serif;
+  font-size: 70pt;
+  color: rgb(0, 0, 0);
+
+}
+
+.w{
+  
+  position:absolute;
+  left:633px;
+  top:121px;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 25pt;
+  color: rgb(0, 0, 0);
+}
+ 
+
+.WHEN2{
+
+  position:absolute;
+  left:200px;
+  top:833px;
+  font-family:'Anton', sans-serif;
+  font-size: 40pt;
+  color: rgb(255,255,255 );
+ }
+
+
+ .where2{
+
+  position:absolute;
+  left:940px;
+  top:777px;
+  font-family:'Anton', sans-serif;
+  font-size: 40pt;
+  color: rgb(255, 255,255 );
+ }
+
+ .where3{
+
+  position:absolute;
+  left:920px;
+  top:833px;
+  font-family:'Anton', sans-serif;
+  font-size: 40pt;
+  color: rgb(255, 255,255 );
+ 	
+ }
+
+
+ .at{
+  
+  position:absolute;
+  left:592px;
+  top:833px;
+  font-family:'Anton', sans-serif;
+  font-size: 40pt;
+  color: rgb(0, 0,0 );
+ }
+
+
+.pricing{
+ 
+  position:absolute;
+  left:1215px;
+  top:-5px;
+  font-family:'Anton', sans-serif;
+  font-size: 40pt;
+  color: rgb(255,255 ,255 );
+
+}
+
+
+@media (max-width:711px) {
+
+
+.background{
+  background-image: url(alyssa5.jpg);
+} 
+
+/*.NIKE{
+
+  position:absolute;
+  left:25px;
+  top:10px;
+ 
+}*/
+
+.NIKE2{
+
+  position:absolute;
+  left:25px;
+  top:10px;
+ 
+}
+
+.SPORTY{
+
+  position:absolute;
+  left:40px;
+  top:45px;
+  font-family:'Anton', sans-serif;
+  font-size: 70pt;
+  color: rgb(255, 255, 255);
+
+}
+
+.X{
+
+  position:absolute;
+  left:310px;
+  top:-100px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 125pt;
+  color: rgb(0, 0, 0);
+
+}
+
+.CHIC{
+
+  position:absolute;
+  left:425px;
+  top:45px;
+  font-family: 'Anton', sans-serif;
+  font-size: 70pt;
+  color: rgb(255,255,255);
+
+}
+
+.w{
+  
+  position:absolute;
+  left:427px;
+  top:220px;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 25pt;
+  color: rgb(0, 0, 0);
+}
+
+
+
+.WHEN2{
+
+  position:absolute;
+  left:40px;
+  top:773px;
+  font-family:'Anton', sans-serif;
+  font-size: 40pt;
+  color: rgb(255,255,255 );
+ }
+
+.when{
+
+  position:absolute;
+  left:47px;
+  top:628px;
+  font-family:'Open Sans', sans-serif;
+  font-size: 10pt;
+  color: rgb(, , );
+  display: none;
+ }
+
+
+
+.at{
+  
+  position:absolute;
+  left:470px;
+  top:773px;
+  font-family:'Anton', sans-serif;
+  font-size: 40pt;
+  color: rgb(255, 255, 255);
+ }
+
+
+
+ .where2{
+
+  position:absolute;
+  left:80px;
+  top:375px;
+  font-family:'Anton', sans-serif;
+  font-size: 20pt;
+  letter-spacing:24pt;
+  text-align: center;
+  color: rgb(255,255 ,255 );
+ }
+
+ .where3{
+
+  position:absolute;
+  left:57px;
+  top:425px;
+  font-family:'Anton', sans-serif;
+  font-size: 20pt;
+  letter-spacing:24pt;
+  text-align: center;
+  color: rgb(255,255 ,255);
+ 	
+ }
+
+ .where4{
+
+  position:absolute;
+  left:465px;
+  top:645px;
+  font-family:'Anton', sans-serif;
+  font-size: 15pt;
+  letter-spacing:5pt;
+  color: rgb(255, 255,255 );
+ 	
+ }
+
+ .where5{
+
+  position:absolute;
+  left:465px;
+  top:715px;
+  font-family:'Anton', sans-serif;
+  letter-spacing:5pt;
+  font-size: 15pt;
+  color: rgb(255, 255, 255);
+ 	
+ }
+
+
+.pricing{
+ 
+  position:absolute;
+  left:550px;
+  top:10px;
+  font-family:'Anton', sans-serif;
+  font-size: 20pt;
+  color: rgb(255,255 ,255 );
+}
+
+
+
+}
+
+
