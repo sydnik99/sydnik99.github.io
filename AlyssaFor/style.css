@@ -29,21 +29,21 @@
 .SPORTY{
 
   position:absolute;
-  left:195px;
-  top:-61px;
+  left:365px;
+  top:-87px;
   font-family:'Anton', sans-serif;
-  font-size: 70pt;
-  color: rgb(0, 0, 0);
+  font-size: 7.5vw;
+  color: rgb(255, 255, 255);
 
 }
 
 .X{
 
   position:absolute;
-  left:486px;
-  top:-203px;
+  left:630px;
+  top:-138px;
   font-family: 'Permanent Marker', cursive;
-  font-size: 125pt;
+  font-size: 9.5vw;
   color: rgb(0, 0, 0);
 
 }
@@ -51,21 +51,21 @@
 .CHIC{
 
   position:absolute;
-  left:631px;
-  top:-61px;
+  left:719px;
+  top:-87px;
   font-family: 'Anton', sans-serif;
-  font-size: 70pt;
-  color: rgb(0, 0, 0);
+  font-size: 7.5vw;
+  color: rgb(255, 255, 255);
 
 }
 
 .w{
   
   position:absolute;
-  left:633px;
-  top:121px;
+  left:722px;
+  top:92px;
   font-family: 'Libre Baskerville', serif;
-  font-size: 25pt;
+  font-size: 2.25vw;
   color: rgb(0, 0, 0);
 }
  
@@ -73,58 +73,92 @@
 .WHEN2{
 
   position:absolute;
-  left:200px;
-  top:833px;
+  left:93px;
+  top:565px;
   font-family:'Anton', sans-serif;
-  font-size: 40pt;
-  color: rgb(255,255,255 );
+  font-size: 4.5vw;
+  color: black;
  }
 
 
  .where2{
 
   position:absolute;
-  left:940px;
-  top:777px;
+  left:377px;
+  top:289px;
   font-family:'Anton', sans-serif;
-  font-size: 40pt;
+  font-size: 2.5vw;
+  letter-spacing: 20pt;
   color: rgb(255, 255,255 );
  }
 
  .where3{
 
   position:absolute;
-  left:920px;
-  top:833px;
+  left:442px;
+  top:348px;
   font-family:'Anton', sans-serif;
-  font-size: 40pt;
+  font-size: 2.5vw;
+  letter-spacing: 10pt;
   color: rgb(255, 255,255 );
  	
  }
 
+.where4{
+
+  position:absolute;
+  left:1060px;
+  top:10px;
+  font-family:'Anton', sans-serif;
+  font-size: 1.5vw;
+  letter-spacing:2.5pt;
+  color: rgb(0, 0,0 );
+ 	
+ }
+
+.where5{
+
+  position:absolute;
+  left:1022px;
+  top:35px;
+  font-family:'Anton', sans-serif;
+  font-size: 1.5vw;
+  letter-spacing:2.5pt;
+  color: rgb(0, 0,0 );
+ 	
+ }
 
  .at{
   
   position:absolute;
-  left:592px;
-  top:833px;
+  left:563px;
+  top:565px;
   font-family:'Anton', sans-serif;
-  font-size: 40pt;
-  color: rgb(0, 0,0 );
+  font-size: 4.25vw;
+  color: rgb(255, 255,255 );
  }
 
 
 .pricing{
  
   position:absolute;
-  left:1215px;
-  top:-5px;
+  left:986px;
+  top:565px;
   font-family:'Anton', sans-serif;
-  font-size: 40pt;
-  color: rgb(255,255 ,255 );
+  font-size: 4.25vw;
+  color: rgb(0,0 ,0 );
 
 }
 
+/*.box{
+
+	top:30px;
+	left:510px;
+	width:100px;
+	height:50px;
+	background-color: black;
+	position: absolute;
+}*/
 
 @media (max-width:711px) {
 
@@ -155,7 +189,7 @@
   left:40px;
   top:45px;
   font-family:'Anton', sans-serif;
-  font-size: 70pt;
+  font-size: 14.5vw;
   color: rgb(255, 255, 255);
 
 }
@@ -163,10 +197,10 @@
 .X{
 
   position:absolute;
-  left:310px;
+  left:300px;
   top:-100px;
   font-family: 'Permanent Marker', cursive;
-  font-size: 125pt;
+  font-size: 26.5vw;
   color: rgb(0, 0, 0);
 
 }
@@ -177,7 +211,7 @@
   left:425px;
   top:45px;
   font-family: 'Anton', sans-serif;
-  font-size: 70pt;
+  font-size: 14.5vw;
   color: rgb(255,255,255);
 
 }
@@ -188,7 +222,7 @@
   left:427px;
   top:220px;
   font-family: 'Libre Baskerville', serif;
-  font-size: 25pt;
+  font-size: 5.5vw;
   color: rgb(0, 0, 0);
 }
 
@@ -200,7 +234,7 @@
   left:40px;
   top:773px;
   font-family:'Anton', sans-serif;
-  font-size: 40pt;
+  font-size:8.25vw;
   color: rgb(255,255,255 );
  }
 
@@ -223,7 +257,7 @@
   left:470px;
   top:773px;
   font-family:'Anton', sans-serif;
-  font-size: 40pt;
+  font-size: 8.25vw;
   color: rgb(255, 255, 255);
  }
 
@@ -232,10 +266,10 @@
  .where2{
 
   position:absolute;
-  left:80px;
+  left:48px;
   top:375px;
   font-family:'Anton', sans-serif;
-  font-size: 20pt;
+  font-size: 4.05vw;
   letter-spacing:24pt;
   text-align: center;
   color: rgb(255,255 ,255 );
@@ -245,9 +279,9 @@
 
   position:absolute;
   left:57px;
-  top:425px;
+  top:415px;
   font-family:'Anton', sans-serif;
-  font-size: 20pt;
+  font-size: 4.05vw;
   letter-spacing:24pt;
   text-align: center;
   color: rgb(255,255 ,255);
@@ -260,7 +294,7 @@
   left:465px;
   top:645px;
   font-family:'Anton', sans-serif;
-  font-size: 15pt;
+  font-size: 3.25vw;
   letter-spacing:5pt;
   color: rgb(255, 255,255 );
  	
@@ -273,7 +307,7 @@
   top:715px;
   font-family:'Anton', sans-serif;
   letter-spacing:5pt;
-  font-size: 15pt;
+  font-size: 3.25vw;
   color: rgb(255, 255, 255);
  	
  }
@@ -282,13 +316,22 @@
 .pricing{
  
   position:absolute;
-  left:550px;
-  top:10px;
+  left:525px;
+  top:8px;
   font-family:'Anton', sans-serif;
-  font-size: 20pt;
+  font-size: 4.25vw;
   color: rgb(255,255 ,255 );
 }
 
+.box{
+
+	top:30px;
+	left:510px;
+	width:100px;
+	height:50px;
+	background-color: black;
+	position: absolute;
+}
 
 
 }
