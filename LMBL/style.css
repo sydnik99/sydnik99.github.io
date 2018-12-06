@@ -1,0 +1,153 @@
+.background{
+position: absolute;
+width:100vw;
+height:100vw;
+top:0px;
+left:0px;
+background-color: rgb(255,217,176); 
+}
+
+
+.remote{
+position: absolute;
+top:150px;
+left:1130px;
+}
+
+.tv{
+position: absolute;
+top:30px;
+left:100px;
+
+}
+
+.showbox {
+width: 798px;
+height: 544px;
+position: absolute;
+top: 64px;
+left: 132px;
+border-radius: 22px; 
+}
+
+.showbox1 {
+background-image: url(atl.jpg);
+}
+
+.showbox2 {
+background-image: url(bill.jpg);
+}
+
+.showbox3 {
+background-image: url(black.jpg);
+}
+
+.showbox4 {
+background-image: url(chi.jpg);
+}
+
+.showbox5 {
+background-image: url(dear.jpg);
+}
+
+.showbox6 {
+background-image: url(grown.jpg);
+}
+
+.showbox7 {
+background-image: url(handmaid.jpg);
+}
+
+.showbox8 {
+background-image: url(insecure.jpg);
+}
+
+.showbox9 {
+background-image: url(omb.jpg);
+}
+
+.showbox10 {
+background-image: url(sharp.jpg);
+}
+
+.showbox11 {
+background-image: url(stranger.jpg);
+}
+
+.showbox12 {
+background-image: url(this.jpg);
+}
+
+
+.channel{
+width: 28px;
+height: 28px;
+position: absolute;
+border-radius: 50%;
+}
+
+.channelone{
+position: absolute;
+top: 240px;
+left: 1148px; 
+}
+
+.channeltwo{
+top: 240px;
+left: 1194px; 
+}
+
+.channelthree{
+top: 240px;
+left: 1241px; 
+}
+
+.channelfour{
+top: 280px;
+left: 1148px; 
+}
+
+.channelfive{
+top: 280px;
+left: 1194px; 
+}
+
+.channelsix{
+top: 280px;
+left: 1241px; 
+}
+
+.channelseven{
+top: 320px;
+left: 1148px; 
+}
+
+.channeleight{
+top: 320px;
+left: 1194px; 
+}
+
+.channelnine{
+top: 320px;
+left: 1241px; 
+}
+
+.channelten{
+top: 360px;
+left: 1148px; 
+}
+
+.channeleleven{
+top: 360px;
+left: 1194px; 
+}
+
+.channeltwelve{
+top: 360px;
+left: 1241px; 
+}
+
+p{
+width:600px;
+	/* set the type settings*/
+}
