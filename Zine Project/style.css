@@ -1,0 +1,65 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+body {
+	width:86vw;
+	margin:65px;
+	font-family:'Roboto', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.pullquote{
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+	font-weight: 700;
+	text-align: center;
+}
+
+img{
+	width: 100%;
+}
+
+.nav1{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 44px;
+	margin-top: -7px;
+	margin-left:718px;
+	position:absolute;
+}
+
+
+.title{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: center;
+	font-size: 30px;
+	margin-top: 65px
+
+}
+
+.byline{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	font-size: 15px;
+	margin-top: 25px
+
+}
+
+.caption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 13px;
+}
+
+/* ask professor how to fix the drop cap */
+
+.R{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+}
