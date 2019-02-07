@@ -11,25 +11,72 @@ body {
 	font-size: 18px;
 	font-weight: 300;
 }
+p{
+	line-height: 52px;
+	margin-top: 30px;
+}
+
+.rihlinks{ 
+	color:rgb(197,13,32);
+	text-decoration: none;
+ }
+
+ .beylinks{ 
+	color:rgb(,,);
+	text-decoration: none;
+ }
+
+ .laulinks{ 
+	color:rgb(,,);
+	text-decoration: none;
+ }
+
+ .szalinks{ 
+	color:rgb(,,);
+	text-decoration: none;
+ }
 
 .pullquote{
 	font-family: 'Playfair Display', serif;
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: 700;
-	text-align: center;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 75px;
 }
 
+.headline{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	
+}
+
+.pullquoteline{
+
+	width:;
+	height:;
+	color:rgb();
+}
+
+.home{
+	width:110px;
+	height:110px; 
+	position: absolute;
+	margin-top: -18px;
+	margin-left: -22px;
+}
 img{
 	width: 100%;
+	margin-top: 30px;
 }
 
-.nav1{
-	font-family: 'Roboto', sans-serif;
-	font-weight: 300;
-	font-size: 44px;
-	margin-top: -7px;
-	margin-left:718px;
-	position:absolute;
+.coverphoto{
+	width: 100%;
+	margin-top: -40px;
+	margin-left: 4px;
 }
 
 
@@ -50,17 +97,207 @@ img{
 
 }
 
-.caption{
+.rihcaption{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
-	font-size: 13px;
+	font-size: 16px;
+	color: rgb(62,16,66);
 }
 
-/* ask professor how to fix the drop cap */
+.beycaption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 16px;
+	color: rgb(,,);
 
-.R{
+}
+
+.szacaption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 16px;
+	color: rgb(,,);
+
+}
+
+.laucaption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 16px;
+	color: rgb(,,);
+
+}
+
+.rihdropcap{
 	font-family: 'Playfair Display', serif;
 	font-weight: 700;
 	font-size: 105px;
 	display: inline;
+	margin-right:4px;
+	color: rgb(62,16,66);
+}
+
+.beydropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: rgb(,,);
+}
+
+.laudropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: rgb(,,);
+}
+
+.szadropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: rgb(,,);
+}
+
+
+.force{
+	position: absolute;
+	font-weight: 300;
+	text-align: left;
+	font-size: 100px;
+	left:30px;
+	top: 1286px;
+
+}
+
+.is{
+	position: absolute;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: left;
+	font-size: 195px;
+	left:32px;
+	top: 1342px;
+
+
+}
+
+.poem1{
+	text-align: right;
+	position: absolute;
+	right: 30px;
+	top:1580px;
+	font-size: 22px;
+
+}
+
+.poem2{
+	position: absolute;
+	text-align: right;
+	right: 30px;
+	top:1618px;
+	font-size: 22px;
+}
+
+.poem3{
+	position: absolute;
+	text-align: right;
+	right: 30px;
+	top:1656px;
+	font-size: 22px;
+}
+
+.box1{
+	width:378px;
+	height:524px;
+	position:absolute;
+	background-color: transparent;
+	margin-left: 30px;
+	margin-top: -1350px; 
+}
+
+.box2{
+	width:378px;
+	height:524px;
+	position:absolute;
+	background-color: transparent;
+	margin-left: 30px;
+	margin-top: -796px; 
+}
+
+.box3{
+	width:378px;
+	height:524px;
+	position:absolute;
+	background-color: transparent;
+	margin-left: 431px;
+	margin-top: -1128px; 
+}
+
+.box4{
+	width:378px;
+	height:524px;
+	position:absolute;
+	background-color: transparent;
+	margin-left: 431px;
+	margin-top: -591px; 
+}
+
+.weekly{
+	position: absolute;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: right;
+	font-size: 36px;
+	right:116px;
+	top: 50px;
+}
+
+.music{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 88px;
+	right:108px;
+	top: 87px;
+}
+
+
+.f1{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 48px;
+	left: 263px;
+	top:1036px;
+	
+}
+
+.f2{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 48px;
+	left: 215px;
+	top:1098px;
+	
+}
+
+.f3{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 48px;
+	left: 182px;
+	top:1159px;
+	
 }
