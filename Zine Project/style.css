@@ -22,7 +22,7 @@ p{
  }
 
  .beylinks{ 
-	color:rgb(,,);
+	color:rgb(186,4,121);
 	text-decoration: none;
  }
 
@@ -39,10 +39,49 @@ p{
 .pullquote{
 	font-family: 'Playfair Display', serif;
 	font-size: 25px;
+	width: 66vw;
 	font-weight: 700;
 	text-align: left;
 	margin-top: 30px;
-	margin-left: 75px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(255,30,15);
+	padding-left: 32px;
+}
+
+.pullquotebey{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	width: 66vw;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(186,4,121);
+	padding-left: 32px;
+}
+
+.pullquotesza{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	width: 66vw;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(,,);
+	padding-left: 32px;
+}
+
+.pullquotelau{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	width: 66vw;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(,,);
+	padding-left: 32px;
 }
 
 .headline{
@@ -54,12 +93,7 @@ p{
 	
 }
 
-.pullquoteline{
 
-	width:;
-	height:;
-	color:rgb();
-}
 
 .home{
 	width:110px;
@@ -108,7 +142,7 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	font-size: 16px;
-	color: rgb(,,);
+	color: rgb(239,127,178);
 
 }
 
@@ -116,7 +150,7 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	font-size: 16px;
-	color: rgb(,,);
+	color: rgb(239,127,178);
 
 }
 
@@ -300,4 +334,18 @@ img{
 	left: 182px;
 	top:1159px;
 	
+}
+
+.padding{
+	padding-top: 25px;
+
+}
+
+.scroll{
+	width:16px;
+	height:62px;
+	position:absolute;
+	background-color: rgb(197,13,32);
+	right: -48px;
+	margin-top: 26px; 
 }
