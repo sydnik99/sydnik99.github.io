@@ -27,12 +27,12 @@ p{
  }
 
  .laulinks{ 
-	color:rgb(,,);
+	color:rgb(0,112,147);
 	text-decoration: none;
  }
 
  .szalinks{ 
-	color:rgb(,,);
+	color:rgb(139,198,62);
 	text-decoration: none;
  }
 
@@ -56,7 +56,7 @@ p{
 	text-align: left;
 	margin-top: 30px;
 	margin-left: 80px;
-	border-left: 4px solid rgb(186,4,121);
+	border-left: 4px solid rgb(249,0,143);
 	padding-left: 32px;
 }
 
@@ -68,7 +68,7 @@ p{
 	text-align: left;
 	margin-top: 30px;
 	margin-left: 80px;
-	border-left: 4px solid rgb(,,);
+	border-left: 4px solid rgb(60,104,62);
 	padding-left: 32px;
 }
 
@@ -80,7 +80,7 @@ p{
 	text-align: left;
 	margin-top: 30px;
 	margin-left: 80px;
-	border-left: 4px solid rgb(,,);
+	border-left: 4px solid rgb(0,112,147);
 	padding-left: 32px;
 }
 
@@ -102,6 +102,15 @@ p{
 	margin-top: -18px;
 	margin-left: -22px;
 }
+
+.homebottom{
+	width:110px;
+	height:110px; 
+	position: absolute;
+	margin-top: 92px;
+	margin-left: 322px;
+}
+
 img{
 	width: 100%;
 	margin-top: 30px;
@@ -113,7 +122,31 @@ img{
 	margin-left: 4px;
 }
 
+.headshot1{
+	width: 50%;
+}
 
+.headshot2{
+	width: 50%;
+	position: absolute;
+	top: 44px;
+	right:-10px;
+}
+
+.headshot3{
+	width: 45%;
+	position: absolute;
+	top: 1278px;
+	right:-9px;
+}
+
+.headshot4{
+	width: 45%;
+	position: absolute;
+	left:-10px;
+	top: 1278px;
+
+}
 .title{
 	font-family: 'Playfair Display', serif;
 	font-weight: 700; 
@@ -142,7 +175,7 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	font-size: 16px;
-	color: rgb(239,127,178);
+	color: rgb(186,4,121); 
 
 }
 
@@ -150,7 +183,7 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	font-size: 16px;
-	color: rgb(239,127,178);
+	color: rgb(68,153,76);
 
 }
 
@@ -158,7 +191,7 @@ img{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	font-size: 16px;
-	color: rgb(,,);
+	color: rgb(7,69,94);
 
 }
 
@@ -177,7 +210,7 @@ img{
 	font-size: 105px;
 	display: inline;
 	margin-right:4px;
-	color: rgb(,,);
+	color: rgb(186,4,121); 
 }
 
 .laudropcap{
@@ -186,7 +219,7 @@ img{
 	font-size: 105px;
 	display: inline;
 	margin-right:4px;
-	color: rgb(,,);
+	color: rgb(7,69,94);
 }
 
 .szadropcap{
@@ -195,9 +228,18 @@ img{
 	font-size: 105px;
 	display: inline;
 	margin-right:4px;
-	color: rgb(,,);
+	color: rgb(0,83,0);
 }
 
+
+.homedropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: black;
+}
 
 .force{
 	position: absolute;
@@ -205,7 +247,7 @@ img{
 	text-align: left;
 	font-size: 100px;
 	left:30px;
-	top: 1444px;
+	top: 808px;
 
 }
 
@@ -216,7 +258,7 @@ img{
 	text-align: left;
 	font-size: 195px;
 	left:32px;
-	top: 1521px;
+	top: 856px;
 
 
 }
@@ -224,63 +266,15 @@ img{
 .poem1{
 	text-align: right;
 	position: absolute;
-	right: 30px;
-	top:1794px;
-	font-size: 22px;
+	right: 61px;
+	top:1093px;
+	font-size: 39px;
 
 }
 
-.poem2{
-	position: absolute;
-	text-align: right;
-	right: 30px;
-	top:1843px;
-	font-size: 22px;
-}
 
-.poem3{
-	position: absolute;
-	text-align: right;
-	right: 30px;
-	top:1890px;
-	font-size: 22px;
-}
 
-.box1{
-	width:378px;
-	height:524px;
-	position:absolute;
-	background-color: transparent;
-	margin-left: 30px;
-	margin-top: -1350px; 
-}
 
-.box2{
-	width:378px;
-	height:524px;
-	position:absolute;
-	background-color: transparent;
-	margin-left: 30px;
-	margin-top: -796px; 
-}
-
-.box3{
-	width:378px;
-	height:524px;
-	position:absolute;
-	background-color: transparent;
-	margin-left: 431px;
-	margin-top: -1128px; 
-}
-
-.box4{
-	width:378px;
-	height:524px;
-	position:absolute;
-	background-color: transparent;
-	margin-left: 431px;
-	margin-top: -591px; 
-}
 
 .weekly{
 	position: absolute;
@@ -345,7 +339,45 @@ img{
 	width:16px;
 	height:62px;
 	position:absolute;
-	background-color: rgb(197,13,32);
 	right: -48px;
-	margin-top: 26px; 
+	top: 0px; 
+}
+
+.rih{
+	background-color: rgb(203,2,29);
+}
+
+.sza{
+	background-color: rgb(170,99,103);
+}
+
+.lau{
+	background-color: rgb(234,198,136);
+}
+
+.bey{
+	background-color: rgb(99,0,54);
+}
+
+.hme{
+	background-color: black;
+}
+
+.movedown{
+	margin-top: 1352px;
+}
+.bottomlink1{
+	margin-top: 363px;
+}
+
+.bottomlink2{
+	margin-top: 28px;
+}
+
+.bottomlink3{
+	margin-top: 28px;
+}
+
+.bottomlink4{
+	margin-top: 28px;
 }
