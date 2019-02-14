@@ -245,9 +245,9 @@ img{
 	position: absolute;
 	font-weight: 300;
 	text-align: left;
-	font-size: 100px;
-	left:30px;
-	top: 808px;
+	font-size: 90px;
+	left:-26px;
+	top: 818px;
 
 }
 
@@ -256,8 +256,8 @@ img{
 	font-family: 'Playfair Display', serif;
 	font-weight: 700; 
 	text-align: left;
-	font-size: 195px;
-	left:32px;
+	font-size: 218px;
+	left:-17px;
 	top: 856px;
 
 
@@ -267,7 +267,7 @@ img{
 	text-align: right;
 	position: absolute;
 	right: 61px;
-	top:1093px;
+	top:1128px;
 	font-size: 39px;
 
 }
@@ -380,4 +380,59 @@ img{
 
 .bottomlink4{
 	margin-top: 28px;
+}
+
+
+.homedown{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: center;
+	font-size: 46px;
+	position: absolute;
+	margin-top: 114px;
+	line-height: 63px;
+}
+
+.initials{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -549px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
+}
+
+.initials2{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -406px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
+}
+
+.initials3{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -247px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
+}
+
+.initials4{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -104px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
 }
