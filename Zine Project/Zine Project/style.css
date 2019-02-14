@@ -1,0 +1,438 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+}
+
+body {
+	width:86vw;
+	margin:65px;
+	font-family:'Roboto', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+}
+p{
+	line-height: 52px;
+	margin-top: 30px;
+}
+
+.rihlinks{ 
+	color:rgb(197,13,32);
+	text-decoration: none;
+ }
+
+ .beylinks{ 
+	color:rgb(186,4,121);
+	text-decoration: none;
+ }
+
+ .laulinks{ 
+	color:rgb(0,112,147);
+	text-decoration: none;
+ }
+
+ .szalinks{ 
+	color:rgb(139,198,62);
+	text-decoration: none;
+ }
+
+.pullquote{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	width: 66vw;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(255,30,15);
+	padding-left: 32px;
+}
+
+.pullquotebey{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	width: 66vw;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(249,0,143);
+	padding-left: 32px;
+}
+
+.pullquotesza{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	width: 66vw;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(60,104,62);
+	padding-left: 32px;
+}
+
+.pullquotelau{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	width: 66vw;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	margin-left: 80px;
+	border-left: 4px solid rgb(0,112,147);
+	padding-left: 32px;
+}
+
+.headline{
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	font-weight: 700;
+	text-align: left;
+	margin-top: 30px;
+	
+}
+
+
+
+.home{
+	width:110px;
+	height:110px; 
+	position: absolute;
+	margin-top: -18px;
+	margin-left: -22px;
+}
+
+.homebottom{
+	width:110px;
+	height:110px; 
+	position: absolute;
+	margin-top: 92px;
+	margin-left: 322px;
+}
+
+img{
+	width: 100%;
+	margin-top: 30px;
+}
+
+.coverphoto{
+	width: 100%;
+	margin-top: -40px;
+	margin-left: 4px;
+}
+
+.headshot1{
+	width: 50%;
+}
+
+.headshot2{
+	width: 50%;
+	position: absolute;
+	top: 44px;
+	right:-10px;
+}
+
+.headshot3{
+	width: 45%;
+	position: absolute;
+	top: 1278px;
+	right:-9px;
+}
+
+.headshot4{
+	width: 45%;
+	position: absolute;
+	left:-10px;
+	top: 1278px;
+
+}
+.title{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: center;
+	font-size: 30px;
+	margin-top: 65px
+
+}
+
+.byline{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	font-size: 15px;
+	margin-top: 25px
+
+}
+
+.rihcaption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 16px;
+	color: rgb(62,16,66);
+}
+
+.beycaption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 16px;
+	color: rgb(186,4,121); 
+
+}
+
+.szacaption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 16px;
+	color: rgb(68,153,76);
+
+}
+
+.laucaption{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 16px;
+	color: rgb(7,69,94);
+
+}
+
+.rihdropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: rgb(62,16,66);
+}
+
+.beydropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: rgb(186,4,121); 
+}
+
+.laudropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: rgb(7,69,94);
+}
+
+.szadropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: rgb(0,83,0);
+}
+
+
+.homedropcap{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	font-size: 105px;
+	display: inline;
+	margin-right:4px;
+	color: black;
+}
+
+.force{
+	position: absolute;
+	font-weight: 300;
+	text-align: left;
+	font-size: 90px;
+	left:-26px;
+	top: 818px;
+
+}
+
+.is{
+	position: absolute;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: left;
+	font-size: 218px;
+	left:-17px;
+	top: 856px;
+
+
+}
+
+.poem1{
+	text-align: right;
+	position: absolute;
+	right: 61px;
+	top:1128px;
+	font-size: 39px;
+
+}
+
+
+
+
+
+.weekly{
+	position: absolute;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: right;
+	font-size: 36px;
+	right:116px;
+	top: 80px;
+}
+
+.music{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 88px;
+	right:108px;
+	top: 134px;
+}
+
+
+.f1{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 48px;
+	left: 263px;
+	top:1090px;
+	
+}
+
+.f2{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 48px;
+	left: 215px;
+	top:1154px;
+	
+}
+
+.f3{
+	position: absolute;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100; 
+	text-align: right;
+	font-size: 48px;
+	left: 182px;
+	top:1221px;
+	
+}
+
+.padding{
+	padding-top: 25px;
+
+}
+
+.scroll{
+	width:16px;
+	height:62px;
+	position:absolute;
+	right: -48px;
+	top: 0px; 
+}
+
+.rih{
+	background-color: rgb(203,2,29);
+}
+
+.sza{
+	background-color: rgb(170,99,103);
+}
+
+.lau{
+	background-color: rgb(234,198,136);
+}
+
+.bey{
+	background-color: rgb(99,0,54);
+}
+
+.hme{
+	background-color: black;
+}
+
+.movedown{
+	margin-top: 1352px;
+}
+.bottomlink1{
+	margin-top: 363px;
+}
+
+.bottomlink2{
+	margin-top: 28px;
+}
+
+.bottomlink3{
+	margin-top: 28px;
+}
+
+.bottomlink4{
+	margin-top: 28px;
+}
+
+
+.homedown{
+	font-family: 'Playfair Display', serif;
+	font-weight: 700; 
+	text-align: center;
+	font-size: 46px;
+	position: absolute;
+	margin-top: 114px;
+	line-height: 63px;
+}
+
+.initials{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -549px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
+}
+
+.initials2{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -406px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
+}
+
+.initials3{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -247px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
+}
+
+.initials4{
+	color: white;
+	position: absolute;
+	font-size: 43px;
+	margin-top: -104px;
+	right: 56px;
+	font-family: 'Playfair Display', serif;
+	font-weight: 700;
+	letter-spacing: 6.5px; 
+}

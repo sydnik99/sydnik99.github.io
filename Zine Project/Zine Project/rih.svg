@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 355 519.3" style="enable-background:new 0 0 355 519.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFD4FC;}
+	.st1{fill:none;stroke:#3E1142;stroke-miterlimit:10;}
+	.st2{fill:#3E1042;}
+	.st3{font-family:'PlayfairDisplay-Bold';}
+	.st4{font-size:73px;}
+	.st5{letter-spacing:2;}
+	.st6{fill:none;stroke:#C586CE;stroke-miterlimit:10;}
+	.st7{fill:none;}
+	.st8{fill:#D37DD3;}
+	.st9{fill:#C586CE;}
+	.st10{fill:none;stroke:#D100E8;stroke-miterlimit:10;}
+</style>
+<title>rih</title>
+<rect x="37" y="37.3" class="st0" width="318" height="482"/>
+<line class="st1" x1="125.7" y1="92.3" x2="268.7" y2="235.4"/>
+<line class="st1" x1="130.7" y1="42.3" x2="273.7" y2="185.4"/>
+<image style="overflow:visible;enable-background:new    ;" width="1024" height="1263" xlink:href="rihopt.png"  transform="matrix(0.29 0 0 0.29 0 79.28)">
+</image>
+<text transform="matrix(1 7.155789e-03 -7.155789e-03 1 155.82 462.92)" class="st2 st3 st4 st5">RiRi</text>
+<text transform="matrix(1 9.773688e-03 -9.773688e-03 1 152.56 457.52)" class="st6 st3 st4 st5">RiRi</text>
+<circle class="st2" cx="11" cy="75.3" r="10"/>
+<circle class="st2" cx="11" cy="101.3" r="10"/>
+<circle class="st2" cx="11" cy="128.3" r="10"/>
+<circle class="st2" cx="11" cy="154.3" r="10"/>
+<path class="st2" d="M28,75.3c0,5.2,3.9,9.5,9,10V65.3C31.9,65.8,28,70.1,28,75.3z"/>
+<path class="st2" d="M28,101.3c0,5.2,3.9,9.5,9,10V91.3C31.9,91.8,28,96.1,28,101.3z"/>
+<path class="st2" d="M28,128.3c0,5.2,3.9,9.5,9,10v-19.9C31.9,118.9,28,123.2,28,128.3z"/>
+<path class="st2" d="M28,154.3c0,5.2,3.9,9.5,9,10v-19.9C31.9,144.9,28,149.2,28,154.3z"/>
+<path class="st7" d="M37,60.3v5c0.3,0,0.7,0,1,0c5.5,0,10,4.5,10,10c0,5.5-4.5,10-10,10c-0.3,0-0.7,0-1,0v6.1c0.3,0,0.7,0,1,0
+	c5.5,0,10,4.5,10,10s-4.5,10-10,10c-0.3,0-0.7,0-1,0v7.1c0.3,0,0.7,0,1,0c5.5,0,10,4.5,10,10c0,5.5-4.5,10-10,10c-0.3,0-0.7,0-1,0
+	v6.1c0.3,0,0.7-0.1,1-0.1c5.5,0,10,4.5,10,10s-4.5,10-10,10c-0.3,0-0.7,0-1-0.1v3.8h29v-108H37z"/>
+<path class="st8" d="M48,75.3c0-5.5-4.5-10-10-10c-0.3,0-0.7,0-1,0v20c0.3,0,0.7,0,1,0C43.5,85.3,48,80.8,48,75.3z"/>
+<path class="st9" d="M48,101.3c0-5.5-4.5-10-10-10c-0.3,0-0.7,0-1,0v20c0.3,0,0.7,0,1,0C43.5,111.3,48,106.8,48,101.3z"/>
+<path class="st8" d="M48,128.3c0-5.5-4.5-10-10-10c-0.3,0-0.7,0-1,0v20c0.3,0,0.7,0,1,0C43.5,138.3,48,133.8,48,128.3z"/>
+<path class="st9" d="M48,154.3c0-5.5-4.5-10-10-10c-0.3,0-0.7,0-1,0.1v19.9c0.3,0,0.7,0.1,1,0.1C43.5,164.3,48,159.9,48,154.3
+	C48,154.3,48,154.3,48,154.3z"/>
+<line class="st10" x1="92.7" y1="32.3" x2="235.7" y2="175.4"/>
+<line class="st10" x1="113.7" y1="0.3" x2="256.7" y2="143.4"/>
+</svg>
