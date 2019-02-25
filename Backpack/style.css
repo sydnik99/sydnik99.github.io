@@ -1,0 +1,85 @@
+.background{
+	position: absolute;
+	width:100vw;
+	height:100vw;
+	top:0px;
+	left:0px;
+	background-color: rgb(180,249,247);
+}
+
+.bag1{
+	position: absolute;
+	left:350px;
+	top:200px;
+}
+
+.bag2{
+	position: absolute;
+	left:426px;
+	top:600px;
+	width: 30%;
+}
+
+.bag3{
+	position: absolute;
+	left:420px;
+	top:600px;
+	width: 31%;
+}
+
+.bag4{
+	position: absolute;
+	left:546px;
+	top:632px;
+	width: 11%;
+}
+
+.bag5{
+	position: absolute;
+	left:434px;
+	top:620px;
+	width: 29%;
+}
+
+.bag6{
+	position: absolute;
+	left:784px;
+	top:619px;
+	width: -15%;
+}
+
+.bag7{
+	position: absolute;
+	left:582px;
+	top:648px;
+}
+
+.bee1{
+	position: absolute;
+	left:701px;
+	top:717px;
+}
+
+.bee2{
+	position: absolute;
+	left:703px;
+	top:719px;
+}
+
+.bee3{
+	position: absolute;
+	left:710px;
+	top:744px;
+}
+
+.bee4{
+	position: absolute;
+	left:727px;
+	top:730px;
+}
+
+.mono{
+	position: absolute;
+	left:547px;
+	top:230px;
+}
