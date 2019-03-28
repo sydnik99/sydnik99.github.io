@@ -43,15 +43,16 @@ body {
   position: absolute;
   top: 25px;
   right: 10px;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
-  border-radius: 50%;
-  background-color: rgb(249, 199, 67);
+  width: 55px;
+  height: 55px;
+  background-image: url("./img/star.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  line-height: 47px;
   color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 19px;
   text-align: center;
   }
 
@@ -83,6 +84,7 @@ body {
   transition-timing-function: linear, ease-in-out;
   pointer-events: none;
   animation-iteration-count: infinite;
+  pointer-events: none;
 }
 
 .hero.walking {
@@ -123,10 +125,13 @@ body {
   animation-iteration-count: infinite;  
   transition-property: right;
   transition-timing-function: linear;
+  pointer-events: none;
 }
 
 .monster.was-hit {
   opacity: 0;
+  animation-name: hit;
+  animation-duration: 400ms 
 }
 
 .preload-image {
@@ -144,4 +149,18 @@ body {
   100% {
     background-position: 100% center;
   }
+}
+
+@keyframes hit{
+	0%{
+		opacity: 1;
+	}
+
+	50%{
+		opacity: 0;
+	}
+
+	100%{
+		opacity: 1;
+	}
 }
